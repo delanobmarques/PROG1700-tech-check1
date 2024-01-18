@@ -1,5 +1,5 @@
 # Author: Student Name
-# Date: September 14, 2023
+# Date: 
 # Title: Restaurant Bill - Teck-check #1
 # Description: Console-based Python program that will calculate the amount of the tip, the tax, and 
         # the total amount of a restaurant bill. The program will prompt the user to input the original amount
